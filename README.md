@@ -2,14 +2,14 @@
 *Updated Sept 9, 2020*
 
 ## Getting Started
-- Brandeis Community register for free library workshops
+- Brandeis Community [register for free library workshops](https://calendar.library.brandeis.edu/calendar/workshops/)
 - Get started by [downloading and installing Anaconda](https://www.anaconda.com/products/individual#Downloads).
 
 # Workshop Instructions
 To participate in this workshop, preview each video tutorial and scan the session notes. During the workshop we will quickly review of new commands, and then spend the time working through session challenge questions together.
 
 ## Materials
-- Materials for Mon Sep 14 will be released this week.
+- Materials for [Mon Sep 14](https://calendar.library.brandeis.edu/event/6940509) will be released this week.
 
 ## Practice Examples and More Training
 - [Practice Python: 30 beginner examples and solutions](http://www.practicepython.org/)
