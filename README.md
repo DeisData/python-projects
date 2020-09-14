@@ -9,7 +9,7 @@ To participate in this workshop, preview each video tutorial and scan the sessio
 - Get started by [downloading and installing Anaconda](https://www.anaconda.com/products/individual#Downloads).
 
 ## Materials
-A quick tutorial to python syntax, loops, conditionals, and functions for a learner with programming skills
+1. Python Fundamentals: python syntax, loops, conditionals, and functions for a learner with programming skills
 - Video Tutorials: *change YouTube settings to 720p for reading scripts*
   - [Introduction](https://youtu.be/M9M_41G7eF4)
   - [Part 1](https://youtu.be/sPJLXbbiABs)
