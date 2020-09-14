@@ -9,9 +9,12 @@ To participate in this workshop, preview each video tutorial and scan the sessio
 - Get started by [downloading and installing Anaconda](https://www.anaconda.com/products/individual#Downloads).
 
 ## Materials
-- Materials for [Mon Sep 14](https://calendar.library.brandeis.edu/event/6940509) will be released this week.
-
-
+A quick tutorial to python syntax, loops, conditionals, and functions for a learner with programming skills
+- Video Tutorials: *change YouTube settings to 720p for reading scripts*
+  - [Introduction](https://youtu.be/M9M_41G7eF4)
+  - [Part 1](https://youtu.be/sPJLXbbiABs)
+  - [Part 2](https://youtu.be/ZyBCR86Ee6Y)
+- [Supporting python script](https://github.com/DeisData/python-projects/blob/master/python-tutorial.py)
 
 ### Practice Examples and More Training
 - [Practice Python: 30 beginner examples and solutions](http://www.practicepython.org/)
