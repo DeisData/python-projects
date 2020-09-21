@@ -16,6 +16,8 @@ To participate in this workshop, preview each video tutorial and scan the sessio
   - [Part 2](https://youtu.be/ZyBCR86Ee6Y)
 - [Supporting python script](https://github.com/DeisData/python-projects/blob/master/python-tutorial.py)
 
+2. Statistics with Python:  Use pandas dataframes and some useful libraries to introduce model fitting in Jupyter Notebook. [[dataset](https://github.com/DeisData/python-projects/blob/master/gapminder.csv) / [jupyter notebook script](https://github.com/DeisData/python-projects/blob/master/python-session2.ipynb)]
+
 ### Practice Examples and More Training
 - [Practice Python: 30 beginner examples and solutions](http://www.practicepython.org/)
 - [Kaggle Courses](https://www.kaggle.com/learn/overview)
